@@ -1,0 +1,1344 @@
+canonical_identifier: bkk:krp/KR3ej044/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ej044/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 萬氏秘傳片玉心書
+  identifiers:
+    krp: KR3ej044
+  tags:
+    kr-categories: KR3ej
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej044.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ej044_000-jc.yaml, hash: 'sha256:e6cf2d212d5ce1651a4a45a74db7b8f9c060236ece74a8adf15fa98fc1e5fb94'}
+  - {seq: 1, filename: KR3ej044_001-jc.yaml, hash: 'sha256:43507789d9074d6d9d06d1f55e997b112a2baee54c13103c938e920766e1f48f'}
+  - {seq: 2, filename: KR3ej044_002-jc.yaml, hash: 'sha256:d97522008897c7fd28fe158ed123e94a48436d995617dc8bb23c7b041129847b'}
+  - {seq: 3, filename: KR3ej044_003-jc.yaml, hash: 'sha256:3345efcfa7d2640b913c7f450697013c957c9de674e141d60515ab437e4784cb'}
+  - {seq: 4, filename: KR3ej044_004-jc.yaml, hash: 'sha256:b9a359c29121a8f193547ea8730e7a361d3464b284c77f17fcc1c731987a0343'}
+  - {seq: 5, filename: KR3ej044_005-jc.yaml, hash: 'sha256:3f562257e8415e65ee92bbe3090caab4d42c93011c4b8c356fc4568c57f95727'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ej044_000-jc.markers.yaml, hash: 'sha256:593993e7e70fdf0a3f8774694c274518855168145e129fc413e068cf56f81c90'}
+  - {seq: 1, role: markers, filename: assets/KR3ej044_001-jc.markers.yaml, hash: 'sha256:bf8054c6250f2b3386b11e38f5b9f0a87977b7266b81aa37535a803b099b68dc'}
+  - {seq: 2, role: markers, filename: assets/KR3ej044_002-jc.markers.yaml, hash: 'sha256:334de33be26780a28244735c3e5dd161633dbe53a0eab4d7488da0043ff3187e'}
+  - {seq: 3, role: markers, filename: assets/KR3ej044_003-jc.markers.yaml, hash: 'sha256:6f71a5c11fe3e60f66b4ee659224d5efbfd4182cc6e9b6183deda4c3ac0967c0'}
+  - {seq: 4, role: markers, filename: assets/KR3ej044_004-jc.markers.yaml, hash: 'sha256:fa6f48e1d79ce138d2693b7820d2e0724f31b669c629d7477a7f832f7947ac02'}
+  - {seq: 5, role: markers, filename: assets/KR3ej044_005-jc.markers.yaml, hash: 'sha256:937b9535226d12a2a28a6f2786b201da6eccf669596d2bb148583fd92c18a480'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ej044_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 217
+  label: 幼科序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej044_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 2102
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ej044_jc_001-d3d2
+    span:
+    - body
+    - 3
+    - 1378
+  label: 活幼指南賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ej044_jc_001-d3d3
+    span:
+    - body
+    - 1378
+    - 2102
+  label: 慈幼儆心賦
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 1972
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d2
+    span:
+    - body
+    - 3
+    - 134
+  label: 小兒總治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d3
+    span:
+    - body
+    - 134
+    - 290
+  label: 小兒初生臍風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d4
+    span:
+    - body
+    - 290
+    - 370
+  label: 小兒變蒸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d5
+    span:
+    - body
+    - 370
+    - 458
+  label: 小兒胎疾
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d6
+    span:
+    - body
+    - 458
+    - 522
+  label: 小兒五臟部位
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d7
+    span:
+    - body
+    - 522
+    - 596
+  label: 五臟外症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d8
+    span:
+    - body
+    - 596
+    - 644
+  label: 看小兒虎口紋
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d9
+    span:
+    - body
+    - 644
+    - 774
+  label: 脈法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d10
+    span:
+    - body
+    - 774
+    - 834
+  label: 小兒夜啼
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d11
+    span:
+    - body
+    - 834
+    - 952
+  label: 驚風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d12
+    span:
+    - body
+    - 952
+    - 1084
+  label: 吐瀉
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d13
+    span:
+    - body
+    - 1084
+    - 1154
+  label: 痢症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d14
+    span:
+    - body
+    - 1154
+    - 1206
+  label: 小兒瘧疾
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d15
+    span:
+    - body
+    - 1206
+    - 1314
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d16
+    span:
+    - body
+    - 1314
+    - 1374
+  label: 疳癆
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d17
+    span:
+    - body
+    - 1374
+    - 1462
+  label: 傷食
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d18
+    span:
+    - body
+    - 1462
+    - 1540
+  label: 傷風
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d19
+    span:
+    - body
+    - 1540
+    - 1610
+  label: 浮腫
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d20
+    span:
+    - body
+    - 1610
+    - 1700
+  label: 口瘡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d21
+    span:
+    - body
+    - 1700
+    - 1750
+  label: 疥瘡
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d22
+    span:
+    - body
+    - 1750
+    - 1852
+  label: 雜症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d23
+    span:
+    - body
+    - 1852
+    - 1884
+  label: 五臟外症
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ej044_jc_002-d4d24
+    span:
+    - body
+    - 1884
+    - 1972
+  label: 五軟病症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 2897
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d2
+    span:
+    - body
+    - 3
+    - 539
+  label: 水鏡訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d3
+    span:
+    - body
+    - 539
+    - 1009
+  label: 指掌形圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d4
+    span:
+    - body
+    - 1009
+    - 1075
+  label: 入門候歌三首
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d5
+    span:
+    - body
+    - 1075
+    - 1219
+  label: 辨虎口指脈紋訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d6
+    span:
+    - body
+    - 1219
+    - 1416
+  label: 又歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d7
+    span:
+    - body
+    - 1416
+    - 1463
+  label: 額印堂山根論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d8
+    span:
+    - body
+    - 1463
+    - 1495
+  label: 年壽論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d9
+    span:
+    - body
+    - 1495
+    - 1500
+  label: 小兒正面圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d10
+    span:
+    - body
+    - 1500
+    - 1505
+  label: 小兒腦背圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d11
+    span:
+    - body
+    - 1505
+    - 1510
+  label: 察形色之圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d12
+    span:
+    - body
+    - 1510
+    - 1542
+  label: 鼻準論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d13
+    span:
+    - body
+    - 1542
+    - 1574
+  label: 正口論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d14
+    span:
+    - body
+    - 1574
+    - 1608
+  label: 承漿兩眉論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d15
+    span:
+    - body
+    - 1608
+    - 1640
+  label: 兩眼論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d16
+    span:
+    - body
+    - 1640
+    - 1676
+  label: 風池氣池兩頤論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d17
+    span:
+    - body
+    - 1676
+    - 1709
+  label: 兩太陽論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d18
+    span:
+    - body
+    - 1709
+    - 1741
+  label: 兩臉論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d19
+    span:
+    - body
+    - 1741
+    - 1777
+  label: 兩頤金匱風門論歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d20
+    span:
+    - body
+    - 1777
+    - 1950
+  label: 觀形色總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d21
+    span:
+    - body
+    - 1950
+    - 1986
+  label: 五位所屬
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d22
+    span:
+    - body
+    - 1986
+    - 1991
+  label: 命門部位圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d23
+    span:
+    - body
+    - 1991
+    - 2054
+  label: 部位歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d24
+    span:
+    - body
+    - 2054
+    - 2410
+  label: 觀形色西江月
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d25
+    span:
+    - body
+    - 2410
+    - 2549
+  label: 小兒脈法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5.d25d4
+    span:
+    - body
+    - 2446
+    - 2549
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5d26
+    span:
+    - body
+    - 2549
+    - 2897
+  label: 小兒治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ej044_jc_003-d5.d26d6
+    span:
+    - body
+    - 2637
+    - 2897
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 11834
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6d2
+    span:
+    - body
+    - 3
+    - 2749
+  label: 胎毒門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d2d126
+    span:
+    - body
+    - 2146
+    - 2749
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6d3
+    span:
+    - body
+    - 2749
+    - 3567
+  label: 變蒸門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d3d26
+    span:
+    - body
+    - 3364
+    - 3567
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6d4
+    span:
+    - body
+    - 3567
+    - 6278
+  label: 驚風門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d4d144
+    span:
+    - body
+    - 5858
+    - 6278
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6d5
+    span:
+    - body
+    - 6278
+    - 7425
+  label: 嘔吐門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d5d36
+    span:
+    - body
+    - 6872
+    - 7425
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6d6
+    span:
+    - body
+    - 7425
+    - 9527
+  label: 泄瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d6d82
+    span:
+    - body
+    - 8222
+    - 9426
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d6d83
+    span:
+    - body
+    - 9426
+    - 9497
+  label: 辨症歌
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d6d84
+    span:
+    - body
+    - 9497
+    - 9527
+  label: 身熱發厥歌久泄多虛熱
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6d7
+    span:
+    - body
+    - 9527
+    - 10053
+  label: 吐瀉門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d7d22
+    span:
+    - body
+    - 9800
+    - 10053
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6d8
+    span:
+    - body
+    - 10053
+    - 11834
+  label: 痢疾門
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ej044_jc_004-d6.d8d122
+    span:
+    - body
+    - 11139
+    - 11834
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 21485
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d2
+    span:
+    - body
+    - 3
+    - 1503
+  label: 瘧疾門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d2d96
+    span:
+    - body
+    - 1194
+    - 1503
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d3
+    span:
+    - body
+    - 1503
+    - 3307
+  label: 發熱門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d3d100
+    span:
+    - body
+    - 3104
+    - 3307
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d4
+    span:
+    - body
+    - 3307
+    - 3623
+  label: 哮喘門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d4d16
+    span:
+    - body
+    - 3520
+    - 3623
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d5
+    span:
+    - body
+    - 3623
+    - 4897
+  label: 咳嗽門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d5d62
+    span:
+    - body
+    - 4167
+    - 4870
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d5d63
+    span:
+    - body
+    - 4870
+    - 4897
+  label: 蛤蟆瘴論症治歌
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d6
+    span:
+    - body
+    - 4897
+    - 5601
+  label: 心腹痛門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d6d32
+    span:
+    - body
+    - 5398
+    - 5601
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d7
+    span:
+    - body
+    - 5601
+    - 6016
+  label: 疝氣門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d7d22
+    span:
+    - body
+    - 5913
+    - 6016
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d8
+    span:
+    - body
+    - 6016
+    - 6571
+  label: 浮腫門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d8d26
+    span:
+    - body
+    - 6368
+    - 6571
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d9
+    span:
+    - body
+    - 6571
+    - 7377
+  label: 脹滿門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d9d40
+    span:
+    - body
+    - 7076
+    - 7377
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d10
+    span:
+    - body
+    - 7377
+    - 7757
+  label: 黃疸門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d11
+    span:
+    - body
+    - 7757
+    - 8430
+  label: 諸汗門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d12
+    span:
+    - body
+    - 8430
+    - 8715
+  label: 夜啼門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d12d18
+    span:
+    - body
+    - 8594
+    - 8715
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d13
+    span:
+    - body
+    - 8715
+    - 9989
+  label: 疳症門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d13d60
+    span:
+    - body
+    - 9886
+    - 9989
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d14
+    span:
+    - body
+    - 9989
+    - 11711
+  label: 大小便門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d14d114
+    span:
+    - body
+    - 11208
+    - 11711
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d15
+    span:
+    - body
+    - 11711
+    - 11952
+  label: 頭項門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d16
+    span:
+    - body
+    - 11952
+    - 12912
+  label: 目病門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d16d64
+    span:
+    - body
+    - 12609
+    - 12912
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d17
+    span:
+    - body
+    - 12912
+    - 13344
+  label: 耳病門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d17d50
+    span:
+    - body
+    - 13291
+    - 13344
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d18
+    span:
+    - body
+    - 13344
+    - 14055
+  label: 鼻病門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d18d70
+    span:
+    - body
+    - 13952
+    - 14055
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d19
+    span:
+    - body
+    - 14055
+    - 14792
+  label: 口瘡門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d19d70
+    span:
+    - body
+    - 14739
+    - 14792
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d20
+    span:
+    - body
+    - 14792
+    - 15179
+  label: 舌病門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d20d26
+    span:
+    - body
+    - 15126
+    - 15179
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d21
+    span:
+    - body
+    - 15179
+    - 15896
+  label: 牙齒門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d21d60
+    span:
+    - body
+    - 15843
+    - 15896
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d22
+    span:
+    - body
+    - 15896
+    - 16364
+  label: 咽喉門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d22d32
+    span:
+    - body
+    - 16211
+    - 16364
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d23
+    span:
+    - body
+    - 16364
+    - 17281
+  label: 形聲門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d50
+    span:
+    - body
+    - 16947
+    - 16994
+  label: 囟顛詩七言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d51
+    span:
+    - body
+    - 16994
+    - 17041
+  label: 囟陷詩七言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d52
+    span:
+    - body
+    - 17041
+    - 17074
+  label: 滯頤詩七言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d53
+    span:
+    - body
+    - 17074
+    - 17121
+  label: 語遲詩七言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d54
+    span:
+    - body
+    - 17121
+    - 17154
+  label: 行遲詩七言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d55
+    span:
+    - body
+    - 17154
+    - 17179
+  label: 龜胸詩五言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d56
+    span:
+    - body
+    - 17179
+    - 17204
+  label: 龜背詩五言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d57
+    span:
+    - body
+    - 17204
+    - 17239
+  label: 發齒生遲詩七言
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d58
+    span:
+    - body
+    - 17239
+    - 17260
+  label: 解顱四言句
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d23d59
+    span:
+    - body
+    - 17260
+    - 17281
+  label: 鶴膝四言句
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d24
+    span:
+    - body
+    - 17281
+    - 17992
+  label: 諸瘡門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d24d68
+    span:
+    - body
+    - 17889
+    - 17992
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d25
+    span:
+    - body
+    - 17992
+    - 19198
+  label: 丹毒門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7.d25d100
+    span:
+    - body
+    - 18855
+    - 19198
+  label: 西江月
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d26
+    span:
+    - body
+    - 19198
+    - 20114
+  label: 斑疹癮疹門
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ej044_jc_005-d7d27
+    span:
+    - body
+    - 20114
+    - 21485
+  label: 秘傳十三方
+  type: section
+  level: 2
+hash: sha256:f757374de8c3f110812bb9bd3ea522d4984ab371050a021efb6be11fc5886413
