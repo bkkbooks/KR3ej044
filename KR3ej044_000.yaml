@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3ej044/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 幼科序大凡醫之為理有可以簡而明者有不可以簡而明者矧稚子何知將問之莫從問也且切之莫可切症變奇出治法多端尚示之以簡而其症不明其治有乖小兒之所以生死存亡系焉是誠簡之無可簡也萬先生育嬰書始以分門心訣繼以各髒髮揮終以痘疹科目反復論辨再三開導可謂無症不備無法不全無理不透者矣小兒不能言者言之而已悉其奧凡醫不能治者治之而已極其神世之讀是書者初視之未嘗不以為不簡也細體之究知其不可簡也先生誠求之心則苦矣先生保赤之心不朽矣是為敘漢陽恪齋張坦議撰於五知莊
   hash: sha256:04774c1804bc6a8fb8c454deecae54b92f20ae7b5fe09a83d314906b4554ca20
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ej044_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 萬氏秘傳片玉心書
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ej044.xml
-hash: sha256:e6cf2d212d5ce1651a4a45a74db7b8f9c060236ece74a8adf15fa98fc1e5fb94
+hash: sha256:4c8d7f01a4229329c95113804155c0098eabd4878f2594f40566932be501e0d0
